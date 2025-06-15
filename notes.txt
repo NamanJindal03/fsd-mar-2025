@@ -47,3 +47,7 @@ Local Git
     2. git add . 
 
     3. git commit -> to generate a git commit id for it 
+
+    4. How do we write a commit message? 
+        a. descriptive 
+        b. shoudl tell what you did in that commit
