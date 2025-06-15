@@ -1,0 +1,49 @@
+Linux Commands 
+    1. PWD -> present work directory
+    2. ls -> list
+    3. cd -> change directory
+    4. cd .. -> change directory go back
+    5. mkdir -> make a directory (folder)
+    6. touch -> create a file
+    7. rm -> remove 
+    8. rm -r -> remove recursively
+    9. rm -rf -> remove recursively forcefully
+
+
+Why do we need LINUX commands so much? 
+    1. Faster work sometimes 
+    2. Every company majorly provides a mac or a linux
+    3. Forced -> nature -> 
+        a. There is certain problem in your server, how will decode? 
+        b. entire thing you need to deal mostly with command line
+    4. In many documentations/books you will see these commands
+
+Nano -> command line file interface 
+vim -> way more popular 
+    1. press i whenever you have to type 
+    2. press escape when you are done typing
+    3. :q! quit without saving the changes
+    4. :wq save and quit 
+    5. :q directly quit if not written anything
+
+git config --global user.name "Naman Jindal"
+git config --global user.email "namanjindal@gmail.com"
+
+difference between git and github -> 
+    what is the differencce between them?
+
+    aws, google, azure (this), gitlab, github, bitbucket 
+
+
+Purpose of using git 
+    1. Version control -> maintains history of your project for proper management
+    2. Collobaration with other teams -> 
+        In facebook -> 10K same project -> 
+
+Local Git 
+    1. How do we initialize git in our project? 
+        git init  
+
+    2. git add . 
+
+    3. git commit -> to generate a git commit id for it 
